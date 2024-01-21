@@ -9,7 +9,6 @@ body{
     width: 100%;
     background: radial-gradient(#480d35 ,#17151d);
     display: grid;
-    place-items: center;
 }
 h1{
   font-family: "Poppins", sans-serif;
